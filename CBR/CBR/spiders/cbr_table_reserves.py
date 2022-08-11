@@ -1,7 +1,8 @@
 import scrapy
+from CBR.items import CbrItem
 
 # Typing
-from typing import Dict, Generator, List
+from typing import Generator
 from scrapy.http.response.html import HtmlResponse
 
 class CbrTableReservesSpider(scrapy.Spider):
@@ -24,8 +25,17 @@ class CbrTableReservesSpider(scrapy.Spider):
                 'UniDbQuery.To': self.data_to})
 
 
-# Scrapy не может вернуть список (так как возращает: Словарь, Запрос, Items), я намеренно не стал использовать Items, поэтому пришлось сделать небольшой обход
-    def parse(self, response:HtmlResponse) -> Generator[Dict[int, List[str]], None, None]:
+
+    def parse(self, response:HtmlResponse) -> Generator[scrapy.Item, None, None]:
         for tr in response.xpath('//table[@class="data spaced"]//tr')[3:]:
-            yield {1:[tb.get() for tb in tr.xpath('.//td//text()')]}
-            
+            items = CbrItem()
+
+            items['data'] = tr.xpath('.//td//text()')[0].get()
+            items['inter_reserves'] = tr.xpath('.//td//text()')[1].get()
+            items['currency_reserves'] = tr.xpath('.//td//text()')[2].get()
+            items['foreign_currency'] = tr.xpath('.//td//text()')[3].get()
+            items['sdr_account'] = tr.xpath('.//td//text()')[4].get()
+            items['position_imf'] = tr.xpath('.//td//text()')[5].get()
+            items['monetary_gold'] = tr.xpath('.//td//text()')[6].get()
+
+            yield items

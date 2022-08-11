@@ -1,0 +1,3008 @@
+[
+{
+    "currency_reserves": "497 951",
+    "data": "01.02.2022",
+    "foreign_currency": "468 631",
+    "inter_reserves": "630 207",
+    "monetary_gold": "132 256",
+    "position_imf": "5 235",
+    "sdr_account": "24 085"
+},
+{
+    "currency_reserves": "497 557",
+    "data": "01.01.2022",
+    "foreign_currency": "468 075",
+    "inter_reserves": "630 627",
+    "monetary_gold": "133 070",
+    "position_imf": "5 264",
+    "sdr_account": "24 218"
+},
+{
+    "currency_reserves": "489 762",
+    "data": "01.12.2021",
+    "foreign_currency": "460 285",
+    "inter_reserves": "622 501",
+    "monetary_gold": "132 739",
+    "position_imf": "5 239",
+    "sdr_account": "24 238"
+},
+{
+    "currency_reserves": "491 378",
+    "data": "01.11.2021",
+    "foreign_currency": "461 593",
+    "inter_reserves": "624 237",
+    "monetary_gold": "132 859",
+    "position_imf": "5 294",
+    "sdr_account": "24 491"
+},
+{
+    "currency_reserves": "485 464",
+    "data": "01.10.2021",
+    "foreign_currency": "455 965",
+    "inter_reserves": "614 122",
+    "monetary_gold": "128 658",
+    "position_imf": "5 122",
+    "sdr_account": "24 377"
+},
+{
+    "currency_reserves": "485 484",
+    "data": "01.09.2021",
+    "foreign_currency": "455 583",
+    "inter_reserves": "618 181",
+    "monetary_gold": "132 697",
+    "position_imf": "5 258",
+    "sdr_account": "24 642"
+},
+{
+    "currency_reserves": "466 129",
+    "data": "01.08.2021",
+    "foreign_currency": "453 838",
+    "inter_reserves": "601 003",
+    "monetary_gold": "134 874",
+    "position_imf": "5 241",
+    "sdr_account": "7 050"
+},
+{
+    "currency_reserves": "461 306",
+    "data": "01.07.2021",
+    "foreign_currency": "449 027",
+    "inter_reserves": "591 745",
+    "monetary_gold": "130 440",
+    "position_imf": "5 241",
+    "sdr_account": "7 038"
+},
+{
+    "currency_reserves": "465 733",
+    "data": "01.06.2021",
+    "foreign_currency": "453 449",
+    "inter_reserves": "605 232",
+    "monetary_gold": "139 499",
+    "position_imf": "5 266",
+    "sdr_account": "7 018"
+},
+{
+    "currency_reserves": "459 622",
+    "data": "01.05.2021",
+    "foreign_currency": "447 411",
+    "inter_reserves": "590 476",
+    "monetary_gold": "130 855",
+    "position_imf": "5 234",
+    "sdr_account": "6 976"
+},
+{
+    "currency_reserves": "448 035",
+    "data": "01.04.2021",
+    "foreign_currency": "435 984",
+    "inter_reserves": "573 322",
+    "monetary_gold": "125 287",
+    "position_imf": "5 166",
+    "sdr_account": "6 885"
+},
+{
+    "currency_reserves": "455 963",
+    "data": "01.03.2021",
+    "foreign_currency": "443 634",
+    "inter_reserves": "586 266",
+    "monetary_gold": "130 304",
+    "position_imf": "5 337",
+    "sdr_account": "6 992"
+},
+{
+    "currency_reserves": "453 900",
+    "data": "01.02.2021",
+    "foreign_currency": "441 370",
+    "inter_reserves": "590 685",
+    "monetary_gold": "136 785",
+    "position_imf": "5 531",
+    "sdr_account": "6 999"
+},
+{
+    "currency_reserves": "457 020",
+    "data": "01.01.2021",
+    "foreign_currency": "444 495",
+    "inter_reserves": "595 774",
+    "monetary_gold": "138 754",
+    "position_imf": "5 528",
+    "sdr_account": "6 996"
+},
+{
+    "currency_reserves": "449 006",
+    "data": "01.12.2020",
+    "foreign_currency": "436 885",
+    "inter_reserves": "582 676",
+    "monetary_gold": "133 670",
+    "position_imf": "5 175",
+    "sdr_account": "6 946"
+},
+{
+    "currency_reserves": "444 188",
+    "data": "01.11.2020",
+    "foreign_currency": "432 206",
+    "inter_reserves": "582 845",
+    "monetary_gold": "138 657",
+    "position_imf": "5 124",
+    "sdr_account": "6 857"
+},
+{
+    "currency_reserves": "444 309",
+    "data": "01.10.2020",
+    "foreign_currency": "432 630",
+    "inter_reserves": "583 426",
+    "monetary_gold": "139 117",
+    "position_imf": "4 842",
+    "sdr_account": "6 837"
+},
+{
+    "currency_reserves": "449 834",
+    "data": "01.09.2020",
+    "foreign_currency": "438 062",
+    "inter_reserves": "594 422",
+    "monetary_gold": "144 588",
+    "position_imf": "4 881",
+    "sdr_account": "6 891"
+},
+{
+    "currency_reserves": "447 431",
+    "data": "01.08.2020",
+    "foreign_currency": "435 707",
+    "inter_reserves": "591 753",
+    "monetary_gold": "144 322",
+    "position_imf": "4 861",
+    "sdr_account": "6 863"
+},
+{
+    "currency_reserves": "438 082",
+    "data": "01.07.2020",
+    "foreign_currency": "426 640",
+    "inter_reserves": "568 872",
+    "monetary_gold": "130 790",
+    "position_imf": "4 761",
+    "sdr_account": "6 681"
+},
+{
+    "currency_reserves": "438 568",
+    "data": "01.06.2020",
+    "foreign_currency": "427 469",
+    "inter_reserves": "566 134",
+    "monetary_gold": "127 566",
+    "position_imf": "4 436",
+    "sdr_account": "6 663"
+},
+{
+    "currency_reserves": "439 927",
+    "data": "01.05.2020",
+    "foreign_currency": "429 156",
+    "inter_reserves": "566 012",
+    "monetary_gold": "126 084",
+    "position_imf": "4 133",
+    "sdr_account": "6 639"
+},
+{
+    "currency_reserves": "443 634",
+    "data": "01.04.2020",
+    "foreign_currency": "433 099",
+    "inter_reserves": "563 473",
+    "monetary_gold": "119 840",
+    "position_imf": "3 904",
+    "sdr_account": "6 631"
+},
+{
+    "currency_reserves": "450 629",
+    "data": "01.03.2020",
+    "foreign_currency": "440 019",
+    "inter_reserves": "570 381",
+    "monetary_gold": "119 752",
+    "position_imf": "3 940",
+    "sdr_account": "6 671"
+},
+{
+    "currency_reserves": "446 488",
+    "data": "01.02.2020",
+    "foreign_currency": "435 841",
+    "inter_reserves": "562 306",
+    "monetary_gold": "115 818",
+    "position_imf": "3 955",
+    "sdr_account": "6 693"
+},
+{
+    "currency_reserves": "443 983",
+    "data": "01.01.2020",
+    "foreign_currency": "433 297",
+    "inter_reserves": "554 359",
+    "monetary_gold": "110 376",
+    "position_imf": "3 970",
+    "sdr_account": "6 717"
+},
+{
+    "currency_reserves": "436 132",
+    "data": "01.12.2019",
+    "foreign_currency": "425 577",
+    "inter_reserves": "542 029",
+    "monetary_gold": "105 896",
+    "position_imf": "3 891",
+    "sdr_account": "6 664"
+},
+{
+    "currency_reserves": "433 015",
+    "data": "01.11.2019",
+    "foreign_currency": "422 313",
+    "inter_reserves": "540 917",
+    "monetary_gold": "107 903",
+    "position_imf": "4 001",
+    "sdr_account": "6 701"
+},
+{
+    "currency_reserves": "423 077",
+    "data": "01.10.2019",
+    "foreign_currency": "412 507",
+    "inter_reserves": "530 923",
+    "monetary_gold": "107 846",
+    "position_imf": "3 952",
+    "sdr_account": "6 618"
+},
+{
+    "currency_reserves": "419 606",
+    "data": "01.09.2019",
+    "foreign_currency": "409 005",
+    "inter_reserves": "529 083",
+    "monetary_gold": "109 477",
+    "position_imf": "3 963",
+    "sdr_account": "6 638"
+},
+{
+    "currency_reserves": "417 874",
+    "data": "01.08.2019",
+    "foreign_currency": "407 205",
+    "inter_reserves": "519 797",
+    "monetary_gold": "101 923",
+    "position_imf": "3 990",
+    "sdr_account": "6 679"
+},
+{
+    "currency_reserves": "418 086",
+    "data": "01.07.2019",
+    "foreign_currency": "407 618",
+    "inter_reserves": "518 363",
+    "monetary_gold": "100 278",
+    "position_imf": "3 723",
+    "sdr_account": "6 745"
+},
+{
+    "currency_reserves": "405 351",
+    "data": "01.06.2019",
+    "foreign_currency": "394 923",
+    "inter_reserves": "495 232",
+    "monetary_gold": "89 882",
+    "position_imf": "3 750",
+    "sdr_account": "6 678"
+},
+{
+    "currency_reserves": "401 080",
+    "data": "01.05.2019",
+    "foreign_currency": "390 579",
+    "inter_reserves": "491 088",
+    "monetary_gold": "90 008",
+    "position_imf": "3 777",
+    "sdr_account": "6 724"
+},
+{
+    "currency_reserves": "397 792",
+    "data": "01.04.2019",
+    "foreign_currency": "387 653",
+    "inter_reserves": "487 803",
+    "monetary_gold": "90 011",
+    "position_imf": "3 409",
+    "sdr_account": "6 730"
+},
+{
+    "currency_reserves": "390 969",
+    "data": "01.03.2019",
+    "foreign_currency": "380 767",
+    "inter_reserves": "482 610",
+    "monetary_gold": "91 641",
+    "position_imf": "3 431",
+    "sdr_account": "6 770"
+},
+{
+    "currency_reserves": "386 485",
+    "data": "01.02.2019",
+    "foreign_currency": "376 601",
+    "inter_reserves": "475 945",
+    "monetary_gold": "89 460",
+    "position_imf": "3 093",
+    "sdr_account": "6 792"
+},
+{
+    "currency_reserves": "381 592",
+    "data": "01.01.2019",
+    "foreign_currency": "371 733",
+    "inter_reserves": "468 495",
+    "monetary_gold": "86 903",
+    "position_imf": "3 122",
+    "sdr_account": "6 737"
+},
+{
+    "currency_reserves": "379 179",
+    "data": "01.12.2018",
+    "foreign_currency": "369 283",
+    "inter_reserves": "462 104",
+    "monetary_gold": "82 925",
+    "position_imf": "3 202",
+    "sdr_account": "6 694"
+},
+{
+    "currency_reserves": "378 508",
+    "data": "01.11.2018",
+    "foreign_currency": "368 609",
+    "inter_reserves": "459 563",
+    "monetary_gold": "81 055",
+    "position_imf": "3 203",
+    "sdr_account": "6 696"
+},
+{
+    "currency_reserves": "381 672",
+    "data": "01.10.2018",
+    "foreign_currency": "371 858",
+    "inter_reserves": "459 163",
+    "monetary_gold": "77 491",
+    "position_imf": "3 060",
+    "sdr_account": "6 754"
+},
+{
+    "currency_reserves": "383 350",
+    "data": "01.09.2018",
+    "foreign_currency": "373 501",
+    "inter_reserves": "460 615",
+    "monetary_gold": "77 265",
+    "position_imf": "3 071",
+    "sdr_account": "6 778"
+},
+{
+    "currency_reserves": "380 621",
+    "data": "01.08.2018",
+    "foreign_currency": "370 736",
+    "inter_reserves": "458 032",
+    "monetary_gold": "77 411",
+    "position_imf": "3 083",
+    "sdr_account": "6 802"
+},
+{
+    "currency_reserves": "378 582",
+    "data": "01.07.2018",
+    "foreign_currency": "368 668",
+    "inter_reserves": "456 749",
+    "monetary_gold": "78 167",
+    "position_imf": "3 109",
+    "sdr_account": "6 805"
+},
+{
+    "currency_reserves": "376 129",
+    "data": "01.06.2018",
+    "foreign_currency": "366 620",
+    "inter_reserves": "456 640",
+    "monetary_gold": "80 511",
+    "position_imf": "2 661",
+    "sdr_account": "6 848"
+},
+{
+    "currency_reserves": "378 737",
+    "data": "01.05.2018",
+    "foreign_currency": "369 075",
+    "inter_reserves": "459 884",
+    "monetary_gold": "81 146",
+    "position_imf": "2 704",
+    "sdr_account": "6 958"
+},
+{
+    "currency_reserves": "377 513",
+    "data": "01.04.2018",
+    "foreign_currency": "367 743",
+    "inter_reserves": "457 995",
+    "monetary_gold": "80 482",
+    "position_imf": "2 739",
+    "sdr_account": "7 030"
+},
+{
+    "currency_reserves": "373 062",
+    "data": "01.03.2018",
+    "foreign_currency": "363 348",
+    "inter_reserves": "453 644",
+    "monetary_gold": "80 582",
+    "position_imf": "2 728",
+    "sdr_account": "6 987"
+},
+{
+    "currency_reserves": "367 357",
+    "data": "01.02.2018",
+    "foreign_currency": "357 558",
+    "inter_reserves": "447 735",
+    "monetary_gold": "80 378",
+    "position_imf": "2 752",
+    "sdr_account": "7 047"
+},
+{
+    "currency_reserves": "356 095",
+    "data": "01.01.2018",
+    "foreign_currency": "346 507",
+    "inter_reserves": "432 742",
+    "monetary_gold": "76 647",
+    "position_imf": "2 706",
+    "sdr_account": "6 883"
+},
+{
+    "currency_reserves": "355 518",
+    "data": "01.12.2017",
+    "foreign_currency": "345 835",
+    "inter_reserves": "431 636",
+    "monetary_gold": "76 118",
+    "position_imf": "2 846",
+    "sdr_account": "6 837"
+},
+{
+    "currency_reserves": "351 152",
+    "data": "01.11.2017",
+    "foreign_currency": "341 439",
+    "inter_reserves": "424 857",
+    "monetary_gold": "73 705",
+    "position_imf": "2 924",
+    "sdr_account": "6 789"
+},
+{
+    "currency_reserves": "351 163",
+    "data": "01.10.2017",
+    "foreign_currency": "341 350",
+    "inter_reserves": "424 766",
+    "monetary_gold": "73 603",
+    "position_imf": "2 986",
+    "sdr_account": "6 827"
+},
+{
+    "currency_reserves": "350 478",
+    "data": "01.09.2017",
+    "foreign_currency": "340 669",
+    "inter_reserves": "423 978",
+    "monetary_gold": "73 500",
+    "position_imf": "2 985",
+    "sdr_account": "6 824"
+},
+{
+    "currency_reserves": "348 410",
+    "data": "01.08.2017",
+    "foreign_currency": "338 578",
+    "inter_reserves": "418 447",
+    "monetary_gold": "70 037",
+    "position_imf": "3 031",
+    "sdr_account": "6 801"
+},
+{
+    "currency_reserves": "343 469",
+    "data": "01.07.2017",
+    "foreign_currency": "333 673",
+    "inter_reserves": "412 239",
+    "monetary_gold": "68 770",
+    "position_imf": "3 078",
+    "sdr_account": "6 719"
+},
+{
+    "currency_reserves": "336 426",
+    "data": "01.06.2017",
+    "foreign_currency": "326 658",
+    "inter_reserves": "405 721",
+    "monetary_gold": "69 295",
+    "position_imf": "3 087",
+    "sdr_account": "6 681"
+},
+{
+    "currency_reserves": "332 345",
+    "data": "01.05.2017",
+    "foreign_currency": "322 667",
+    "inter_reserves": "400 998",
+    "monetary_gold": "68 653",
+    "position_imf": "3 059",
+    "sdr_account": "6 619"
+},
+{
+    "currency_reserves": "330 337",
+    "data": "01.04.2017",
+    "foreign_currency": "320 763",
+    "inter_reserves": "397 907",
+    "monetary_gold": "67 570",
+    "position_imf": "3 026",
+    "sdr_account": "6 548"
+},
+{
+    "currency_reserves": "330 472",
+    "data": "01.03.2017",
+    "foreign_currency": "320 921",
+    "inter_reserves": "397 334",
+    "monetary_gold": "66 863",
+    "position_imf": "3 019",
+    "sdr_account": "6 532"
+},
+{
+    "currency_reserves": "327 650",
+    "data": "01.02.2017",
+    "foreign_currency": "318 028",
+    "inter_reserves": "390 585",
+    "monetary_gold": "62 936",
+    "position_imf": "3 064",
+    "sdr_account": "6 557"
+},
+{
+    "currency_reserves": "317 548",
+    "data": "01.01.2017",
+    "foreign_currency": "308 031",
+    "inter_reserves": "377 741",
+    "monetary_gold": "60 194",
+    "position_imf": "3 031",
+    "sdr_account": "6 486"
+},
+{
+    "currency_reserves": "323 631",
+    "data": "01.12.2016",
+    "foreign_currency": "314 050",
+    "inter_reserves": "385 288",
+    "monetary_gold": "61 657",
+    "position_imf": "3 052",
+    "sdr_account": "6 530"
+},
+{
+    "currency_reserves": "326 310",
+    "data": "01.11.2016",
+    "foreign_currency": "316 586",
+    "inter_reserves": "390 741",
+    "monetary_gold": "64 431",
+    "position_imf": "3 097",
+    "sdr_account": "6 627"
+},
+{
+    "currency_reserves": "332 232",
+    "data": "01.10.2016",
+    "foreign_currency": "322 354",
+    "inter_reserves": "397 743",
+    "monetary_gold": "65 512",
+    "position_imf": "3 146",
+    "sdr_account": "6 732"
+},
+{
+    "currency_reserves": "330 488",
+    "data": "01.09.2016",
+    "foreign_currency": "320 610",
+    "inter_reserves": "395 198",
+    "monetary_gold": "64 710",
+    "position_imf": "3 154",
+    "sdr_account": "6 725"
+},
+{
+    "currency_reserves": "329 392",
+    "data": "01.08.2016",
+    "foreign_currency": "319 520",
+    "inter_reserves": "393 912",
+    "monetary_gold": "64 520",
+    "position_imf": "3 152",
+    "sdr_account": "6 720"
+},
+{
+    "currency_reserves": "329 259",
+    "data": "01.07.2016",
+    "foreign_currency": "319 349",
+    "inter_reserves": "392 756",
+    "monetary_gold": "63 497",
+    "position_imf": "3 164",
+    "sdr_account": "6 746"
+},
+{
+    "currency_reserves": "329 786",
+    "data": "01.06.2016",
+    "foreign_currency": "319 823",
+    "inter_reserves": "387 716",
+    "monetary_gold": "57 930",
+    "position_imf": "3 198",
+    "sdr_account": "6 766"
+},
+{
+    "currency_reserves": "331 015",
+    "data": "01.05.2016",
+    "foreign_currency": "320 948",
+    "inter_reserves": "391 521",
+    "monetary_gold": "60 506",
+    "position_imf": "3 231",
+    "sdr_account": "6 836"
+},
+{
+    "currency_reserves": "328 871",
+    "data": "01.04.2016",
+    "foreign_currency": "318 865",
+    "inter_reserves": "387 008",
+    "monetary_gold": "58 137",
+    "position_imf": "3 212",
+    "sdr_account": "6 795"
+},
+{
+    "currency_reserves": "323 275",
+    "data": "01.03.2016",
+    "foreign_currency": "313 465",
+    "inter_reserves": "380 544",
+    "monetary_gold": "57 269",
+    "position_imf": "3 149",
+    "sdr_account": "6 662"
+},
+{
+    "currency_reserves": "320 180",
+    "data": "01.02.2016",
+    "foreign_currency": "309 770",
+    "inter_reserves": "371 559",
+    "monetary_gold": "51 379",
+    "position_imf": "2 551",
+    "sdr_account": "7 859"
+},
+{
+    "currency_reserves": "319 836",
+    "data": "01.01.2016",
+    "foreign_currency": "309 387",
+    "inter_reserves": "368 399",
+    "monetary_gold": "48 563",
+    "position_imf": "2 560",
+    "sdr_account": "7 888"
+},
+{
+    "currency_reserves": "317 028",
+    "data": "01.12.2015",
+    "foreign_currency": "306 658",
+    "inter_reserves": "364 708",
+    "monetary_gold": "47 680",
+    "position_imf": "2 560",
+    "sdr_account": "7 811"
+},
+{
+    "currency_reserves": "319 061",
+    "data": "01.11.2015",
+    "foreign_currency": "308 504",
+    "inter_reserves": "369 640",
+    "monetary_gold": "50 578",
+    "position_imf": "2 606",
+    "sdr_account": "7 952"
+},
+{
+    "currency_reserves": "322 375",
+    "data": "01.10.2015",
+    "foreign_currency": "311 749",
+    "inter_reserves": "371 267",
+    "monetary_gold": "48 892",
+    "position_imf": "2 635",
+    "sdr_account": "7 991"
+},
+{
+    "currency_reserves": "318 661",
+    "data": "01.09.2015",
+    "foreign_currency": "307 943",
+    "inter_reserves": "366 343",
+    "monetary_gold": "47 683",
+    "position_imf": "2 727",
+    "sdr_account": "7 991"
+},
+{
+    "currency_reserves": "312 663",
+    "data": "01.08.2015",
+    "foreign_currency": "302 137",
+    "inter_reserves": "357 626",
+    "monetary_gold": "44 963",
+    "position_imf": "2 587",
+    "sdr_account": "7 939"
+},
+{
+    "currency_reserves": "313 342",
+    "data": "01.07.2015",
+    "foreign_currency": "302 728",
+    "inter_reserves": "361 571",
+    "monetary_gold": "48 229",
+    "position_imf": "2 609",
+    "sdr_account": "8 005"
+},
+{
+    "currency_reserves": "308 895",
+    "data": "01.06.2015",
+    "foreign_currency": "298 384",
+    "inter_reserves": "356 770",
+    "monetary_gold": "47 875",
+    "position_imf": "2 596",
+    "sdr_account": "7 915"
+},
+{
+    "currency_reserves": "307 718",
+    "data": "01.05.2015",
+    "foreign_currency": "297 086",
+    "inter_reserves": "356 005",
+    "monetary_gold": "48 287",
+    "position_imf": "2 626",
+    "sdr_account": "8 006"
+},
+{
+    "currency_reserves": "309 093",
+    "data": "01.04.2015",
+    "foreign_currency": "298 665",
+    "inter_reserves": "356 365",
+    "monetary_gold": "47 272",
+    "position_imf": "2 576",
+    "sdr_account": "7 852"
+},
+{
+    "currency_reserves": "313 431",
+    "data": "01.03.2015",
+    "foreign_currency": "302 311",
+    "inter_reserves": "360 221",
+    "monetary_gold": "46 790",
+    "position_imf": "3 110",
+    "sdr_account": "8 011"
+},
+{
+    "currency_reserves": "327 147",
+    "data": "01.02.2015",
+    "foreign_currency": "315 816",
+    "inter_reserves": "376 208",
+    "monetary_gold": "49 061",
+    "position_imf": "3 306",
+    "sdr_account": "8 025"
+},
+{
+    "currency_reserves": "339 371",
+    "data": "01.01.2015",
+    "foreign_currency": "327 727",
+    "inter_reserves": "385 460",
+    "monetary_gold": "46 089",
+    "position_imf": "3 398",
+    "sdr_account": "8 246"
+},
+{
+    "currency_reserves": "373 658",
+    "data": "01.12.2014",
+    "foreign_currency": "361 409",
+    "inter_reserves": "418 880",
+    "monetary_gold": "45 222",
+    "position_imf": "3 915",
+    "sdr_account": "8 334"
+},
+{
+    "currency_reserves": "383 283",
+    "data": "01.11.2014",
+    "foreign_currency": "370 916",
+    "inter_reserves": "428 590",
+    "monetary_gold": "45 307",
+    "position_imf": "3 953",
+    "sdr_account": "8 414"
+},
+{
+    "currency_reserves": "409 224",
+    "data": "01.10.2014",
+    "foreign_currency": "396 792",
+    "inter_reserves": "454 240",
+    "monetary_gold": "45 016",
+    "position_imf": "3 994",
+    "sdr_account": "8 438"
+},
+{
+    "currency_reserves": "419 239",
+    "data": "01.09.2014",
+    "foreign_currency": "406 404",
+    "inter_reserves": "465 228",
+    "monetary_gold": "45 990",
+    "position_imf": "4 193",
+    "sdr_account": "8 642"
+},
+{
+    "currency_reserves": "422 654",
+    "data": "01.08.2014",
+    "foreign_currency": "409 647",
+    "inter_reserves": "468 762",
+    "monetary_gold": "46 109",
+    "position_imf": "4 291",
+    "sdr_account": "8 716"
+},
+{
+    "currency_reserves": "431 958",
+    "data": "01.07.2014",
+    "foreign_currency": "418 828",
+    "inter_reserves": "478 250",
+    "monetary_gold": "46 292",
+    "position_imf": "4 332",
+    "sdr_account": "8 798"
+},
+{
+    "currency_reserves": "423 768",
+    "data": "01.06.2014",
+    "foreign_currency": "410 866",
+    "inter_reserves": "467 227",
+    "monetary_gold": "43 459",
+    "position_imf": "4 136",
+    "sdr_account": "8 767"
+},
+{
+    "currency_reserves": "427 975",
+    "data": "01.05.2014",
+    "foreign_currency": "414 758",
+    "inter_reserves": "472 278",
+    "monetary_gold": "44 303",
+    "position_imf": "4 397",
+    "sdr_account": "8 820"
+},
+{
+    "currency_reserves": "442 776",
+    "data": "01.04.2014",
+    "foreign_currency": "429 689",
+    "inter_reserves": "486 131",
+    "monetary_gold": "43 355",
+    "position_imf": "4 291",
+    "sdr_account": "8 796"
+},
+{
+    "currency_reserves": "448 738",
+    "data": "01.03.2014",
+    "foreign_currency": "435 565",
+    "inter_reserves": "493 326",
+    "monetary_gold": "44 588",
+    "position_imf": "4 368",
+    "sdr_account": "8 805"
+},
+{
+    "currency_reserves": "457 211",
+    "data": "01.02.2014",
+    "foreign_currency": "444 149",
+    "inter_reserves": "498 926",
+    "monetary_gold": "41 715",
+    "position_imf": "4 332",
+    "sdr_account": "8 730"
+},
+{
+    "currency_reserves": "469 605",
+    "data": "01.01.2014",
+    "foreign_currency": "456 447",
+    "inter_reserves": "509 595",
+    "monetary_gold": "39 990",
+    "position_imf": "4 396",
+    "sdr_account": "8 762"
+},
+{
+    "currency_reserves": "474 950",
+    "data": "01.12.2013",
+    "foreign_currency": "461 685",
+    "inter_reserves": "515 590",
+    "monetary_gold": "40 640",
+    "position_imf": "4 530",
+    "sdr_account": "8 734"
+},
+{
+    "currency_reserves": "480 238",
+    "data": "01.11.2013",
+    "foreign_currency": "466 937",
+    "inter_reserves": "524 284",
+    "monetary_gold": "44 045",
+    "position_imf": "4 551",
+    "sdr_account": "8 751"
+},
+{
+    "currency_reserves": "479 451",
+    "data": "01.10.2013",
+    "foreign_currency": "466 129",
+    "inter_reserves": "522 580",
+    "monetary_gold": "43 129",
+    "position_imf": "4 595",
+    "sdr_account": "8 727"
+},
+{
+    "currency_reserves": "464 202",
+    "data": "01.09.2013",
+    "foreign_currency": "451 203",
+    "inter_reserves": "509 674",
+    "monetary_gold": "45 472",
+    "position_imf": "4 378",
+    "sdr_account": "8 620"
+},
+{
+    "currency_reserves": "470 205",
+    "data": "01.08.2013",
+    "foreign_currency": "456 979",
+    "inter_reserves": "512 834",
+    "monetary_gold": "42 630",
+    "position_imf": "4 617",
+    "sdr_account": "8 609"
+},
+{
+    "currency_reserves": "475 224",
+    "data": "01.07.2013",
+    "foreign_currency": "462 122",
+    "inter_reserves": "513 772",
+    "monetary_gold": "38 547",
+    "position_imf": "4 548",
+    "sdr_account": "8 555"
+},
+{
+    "currency_reserves": "473 393",
+    "data": "01.06.2013",
+    "foreign_currency": "460 435",
+    "inter_reserves": "518 431",
+    "monetary_gold": "45 039",
+    "position_imf": "4 432",
+    "sdr_account": "8 525"
+},
+{
+    "currency_reserves": "486 350",
+    "data": "01.05.2013",
+    "foreign_currency": "473 121",
+    "inter_reserves": "533 218",
+    "monetary_gold": "46 868",
+    "position_imf": "4 645",
+    "sdr_account": "8 584"
+},
+{
+    "currency_reserves": "477 267",
+    "data": "01.04.2013",
+    "foreign_currency": "464 126",
+    "inter_reserves": "527 708",
+    "monetary_gold": "50 441",
+    "position_imf": "4 614",
+    "sdr_account": "8 528"
+},
+{
+    "currency_reserves": "475 650",
+    "data": "01.03.2013",
+    "foreign_currency": "462 372",
+    "inter_reserves": "526 172",
+    "monetary_gold": "50 522",
+    "position_imf": "4 662",
+    "sdr_account": "8 616"
+},
+{
+    "currency_reserves": "480 195",
+    "data": "01.02.2013",
+    "foreign_currency": "466 598",
+    "inter_reserves": "532 155",
+    "monetary_gold": "51 960",
+    "position_imf": "4 831",
+    "sdr_account": "8 767"
+},
+{
+    "currency_reserves": "486 578",
+    "data": "01.01.2013",
+    "foreign_currency": "473 110",
+    "inter_reserves": "537 618",
+    "monetary_gold": "51 039",
+    "position_imf": "4 727",
+    "sdr_account": "8 741"
+},
+{
+    "currency_reserves": "476 241",
+    "data": "01.12.2012",
+    "foreign_currency": "462 792",
+    "inter_reserves": "528 236",
+    "monetary_gold": "51 995",
+    "position_imf": "4 720",
+    "sdr_account": "8 729"
+},
+{
+    "currency_reserves": "475 260",
+    "data": "01.11.2012",
+    "foreign_currency": "461 863",
+    "inter_reserves": "526 766",
+    "monetary_gold": "51 505",
+    "position_imf": "4 635",
+    "sdr_account": "8 762"
+},
+{
+    "currency_reserves": "476 380",
+    "data": "01.10.2012",
+    "foreign_currency": "462 970",
+    "inter_reserves": "529 893",
+    "monetary_gold": "53 512",
+    "position_imf": "4 639",
+    "sdr_account": "8 770"
+},
+{
+    "currency_reserves": "464 857",
+    "data": "01.09.2012",
+    "foreign_currency": "451 624",
+    "inter_reserves": "514 593",
+    "monetary_gold": "49 736",
+    "position_imf": "4 578",
+    "sdr_account": "8 655"
+},
+{
+    "currency_reserves": "461 865",
+    "data": "01.08.2012",
+    "foreign_currency": "448 858",
+    "inter_reserves": "510 543",
+    "monetary_gold": "48 678",
+    "position_imf": "4 429",
+    "sdr_account": "8 578"
+},
+{
+    "currency_reserves": "467 992",
+    "data": "01.07.2012",
+    "foreign_currency": "454 907",
+    "inter_reserves": "514 317",
+    "monetary_gold": "46 325",
+    "position_imf": "4 456",
+    "sdr_account": "8 630"
+},
+{
+    "currency_reserves": "465 128",
+    "data": "01.06.2012",
+    "foreign_currency": "452 106",
+    "inter_reserves": "510 432",
+    "monetary_gold": "45 304",
+    "position_imf": "4 434",
+    "sdr_account": "8 588"
+},
+{
+    "currency_reserves": "476 458",
+    "data": "01.05.2012",
+    "foreign_currency": "463 088",
+    "inter_reserves": "524 370",
+    "monetary_gold": "47 912",
+    "position_imf": "4 553",
+    "sdr_account": "8 818"
+},
+{
+    "currency_reserves": "465 664",
+    "data": "01.04.2012",
+    "foreign_currency": "452 646",
+    "inter_reserves": "513 491",
+    "monetary_gold": "47 827",
+    "position_imf": "4 209",
+    "sdr_account": "8 808"
+},
+{
+    "currency_reserves": "463 810",
+    "data": "01.03.2012",
+    "foreign_currency": "450 848",
+    "inter_reserves": "513 978",
+    "monetary_gold": "50 168",
+    "position_imf": "4 116",
+    "sdr_account": "8 847"
+},
+{
+    "currency_reserves": "456 550",
+    "data": "01.02.2012",
+    "foreign_currency": "443 627",
+    "inter_reserves": "505 391",
+    "monetary_gold": "48 841",
+    "position_imf": "4 104",
+    "sdr_account": "8 820"
+},
+{
+    "currency_reserves": "453 952",
+    "data": "01.01.2012",
+    "foreign_currency": "441 162",
+    "inter_reserves": "498 649",
+    "monetary_gold": "44 697",
+    "position_imf": "4 061",
+    "sdr_account": "8 729"
+},
+{
+    "currency_reserves": "462 686",
+    "data": "01.12.2011",
+    "foreign_currency": "450 027",
+    "inter_reserves": "510 910",
+    "monetary_gold": "48 224",
+    "position_imf": "3 838",
+    "sdr_account": "8 820"
+},
+{
+    "currency_reserves": "476 967",
+    "data": "01.11.2011",
+    "foreign_currency": "464 023",
+    "inter_reserves": "525 557",
+    "monetary_gold": "48 589",
+    "position_imf": "3 925",
+    "sdr_account": "9 019"
+},
+{
+    "currency_reserves": "472 496",
+    "data": "01.10.2011",
+    "foreign_currency": "459 753",
+    "inter_reserves": "516 848",
+    "monetary_gold": "44 352",
+    "position_imf": "3 864",
+    "sdr_account": "8 879"
+},
+{
+    "currency_reserves": "496 366",
+    "data": "01.09.2011",
+    "foreign_currency": "483 885",
+    "inter_reserves": "545 012",
+    "monetary_gold": "48 645",
+    "position_imf": "3 334",
+    "sdr_account": "9 148"
+},
+{
+    "currency_reserves": "490 264",
+    "data": "01.08.2011",
+    "foreign_currency": "477 855",
+    "inter_reserves": "533 905",
+    "monetary_gold": "43 640",
+    "position_imf": "3 315",
+    "sdr_account": "9 095"
+},
+{
+    "currency_reserves": "484 015",
+    "data": "01.07.2011",
+    "foreign_currency": "471 942",
+    "inter_reserves": "524 527",
+    "monetary_gold": "40 512",
+    "position_imf": "2 974",
+    "sdr_account": "9 098"
+},
+{
+    "currency_reserves": "480 141",
+    "data": "01.06.2011",
+    "foreign_currency": "468 072",
+    "inter_reserves": "521 092",
+    "monetary_gold": "40 950",
+    "position_imf": "2 974",
+    "sdr_account": "9 096"
+},
+{
+    "currency_reserves": "483 229",
+    "data": "01.05.2011",
+    "foreign_currency": "471 725",
+    "inter_reserves": "523 950",
+    "monetary_gold": "40 720",
+    "position_imf": "2 287",
+    "sdr_account": "9 217"
+},
+{
+    "currency_reserves": "465 455",
+    "data": "01.04.2011",
+    "foreign_currency": "454 223",
+    "inter_reserves": "502 460",
+    "monetary_gold": "37 005",
+    "position_imf": "2 221",
+    "sdr_account": "9 011"
+},
+{
+    "currency_reserves": "458 045",
+    "data": "01.03.2011",
+    "foreign_currency": "447 175",
+    "inter_reserves": "493 835",
+    "monetary_gold": "35 790",
+    "position_imf": "1 934",
+    "sdr_account": "8 936"
+},
+{
+    "currency_reserves": "450 766",
+    "data": "01.02.2011",
+    "foreign_currency": "439 969",
+    "inter_reserves": "484 158",
+    "monetary_gold": "33 393",
+    "position_imf": "1 920",
+    "sdr_account": "8 876"
+},
+{
+    "currency_reserves": "443 591",
+    "data": "01.01.2011",
+    "foreign_currency": "432 948",
+    "inter_reserves": "479 379",
+    "monetary_gold": "35 788",
+    "position_imf": "1 893",
+    "sdr_account": "8 749"
+},
+{
+    "currency_reserves": "448 778",
+    "data": "01.12.2010",
+    "foreign_currency": "438 237",
+    "inter_reserves": "483 063",
+    "monetary_gold": "34 285",
+    "position_imf": "1 876",
+    "sdr_account": "8 666"
+},
+{
+    "currency_reserves": "463 767",
+    "data": "01.11.2010",
+    "foreign_currency": "452 905",
+    "inter_reserves": "497 082",
+    "monetary_gold": "33 315",
+    "position_imf": "1 932",
+    "sdr_account": "8 930"
+},
+{
+    "currency_reserves": "458 319",
+    "data": "01.10.2010",
+    "foreign_currency": "447 567",
+    "inter_reserves": "490 099",
+    "monetary_gold": "31 780",
+    "position_imf": "1 913",
+    "sdr_account": "8 839"
+},
+{
+    "currency_reserves": "447 071",
+    "data": "01.09.2010",
+    "foreign_currency": "436 647",
+    "inter_reserves": "476 266",
+    "monetary_gold": "29 195",
+    "position_imf": "1 855",
+    "sdr_account": "8 568"
+},
+{
+    "currency_reserves": "448 043",
+    "data": "01.08.2010",
+    "foreign_currency": "437 551",
+    "inter_reserves": "475 307",
+    "monetary_gold": "27 264",
+    "position_imf": "1 867",
+    "sdr_account": "8 625"
+},
+{
+    "currency_reserves": "432 994",
+    "data": "01.07.2010",
+    "foreign_currency": "422 778",
+    "inter_reserves": "461 201",
+    "monetary_gold": "28 206",
+    "position_imf": "1 818",
+    "sdr_account": "8 398"
+},
+{
+    "currency_reserves": "428 991",
+    "data": "01.06.2010",
+    "foreign_currency": "418 808",
+    "inter_reserves": "456 434",
+    "monetary_gold": "27 443",
+    "position_imf": "1 812",
+    "sdr_account": "8 371"
+},
+{
+    "currency_reserves": "435 565",
+    "data": "01.05.2010",
+    "foreign_currency": "425 126",
+    "inter_reserves": "461 169",
+    "monetary_gold": "25 603",
+    "position_imf": "1 858",
+    "sdr_account": "8 582"
+},
+{
+    "currency_reserves": "423 321",
+    "data": "01.04.2010",
+    "foreign_currency": "412 834",
+    "inter_reserves": "447 442",
+    "monetary_gold": "24 120",
+    "position_imf": "1 866",
+    "sdr_account": "8 621"
+},
+{
+    "currency_reserves": "413 334",
+    "data": "01.03.2010",
+    "foreign_currency": "402 750",
+    "inter_reserves": "436 775",
+    "monetary_gold": "23 441",
+    "position_imf": "1 884",
+    "sdr_account": "8 700"
+},
+{
+    "currency_reserves": "413 514",
+    "data": "01.02.2010",
+    "foreign_currency": "402 778",
+    "inter_reserves": "436 267",
+    "monetary_gold": "22 753",
+    "position_imf": "1 911",
+    "sdr_account": "8 826"
+},
+{
+    "currency_reserves": "416 653",
+    "data": "01.01.2010",
+    "foreign_currency": "405 825",
+    "inter_reserves": "439 450",
+    "monetary_gold": "22 798",
+    "position_imf": "1 927",
+    "sdr_account": "8 901"
+},
+{
+    "currency_reserves": "424 692",
+    "data": "01.12.2009",
+    "foreign_currency": "413 573",
+    "inter_reserves": "447 671",
+    "monetary_gold": "22 979",
+    "position_imf": "1 979",
+    "sdr_account": "9 140"
+},
+{
+    "currency_reserves": "414 028",
+    "data": "01.11.2009",
+    "foreign_currency": "403 048",
+    "inter_reserves": "434 435",
+    "monetary_gold": "20 407",
+    "position_imf": "1 954",
+    "sdr_account": "9 026"
+},
+{
+    "currency_reserves": "394 518",
+    "data": "01.10.2009",
+    "foreign_currency": "383 578",
+    "inter_reserves": "413 364",
+    "monetary_gold": "18 846",
+    "position_imf": "1 947",
+    "sdr_account": "8 993"
+},
+{
+    "currency_reserves": "391 876",
+    "data": "01.09.2009",
+    "foreign_currency": "383 044",
+    "inter_reserves": "409 546",
+    "monetary_gold": "17 670",
+    "position_imf": "1 925",
+    "sdr_account": "6 907"
+},
+{
+    "currency_reserves": "384 875",
+    "data": "01.08.2009",
+    "foreign_currency": "383 170",
+    "inter_reserves": "401 908",
+    "monetary_gold": "17 033",
+    "position_imf": "1 701",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "395 891",
+    "data": "01.07.2009",
+    "foreign_currency": "394 187",
+    "inter_reserves": "412 512",
+    "monetary_gold": "16 621",
+    "position_imf": "1 701",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "387 280",
+    "data": "01.06.2009",
+    "foreign_currency": "385 738",
+    "inter_reserves": "404 170",
+    "monetary_gold": "16 889",
+    "position_imf": "1 539",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "368 348",
+    "data": "01.05.2009",
+    "foreign_currency": "367 157",
+    "inter_reserves": "383 788",
+    "monetary_gold": "15 440",
+    "position_imf": "1 189",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "368 065",
+    "data": "01.04.2009",
+    "foreign_currency": "366 876",
+    "inter_reserves": "383 808",
+    "monetary_gold": "15 743",
+    "position_imf": "1 187",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "368 157",
+    "data": "01.03.2009",
+    "foreign_currency": "367 151",
+    "inter_reserves": "384 090",
+    "monetary_gold": "15 932",
+    "position_imf": "1 004",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "371 426",
+    "data": "01.02.2009",
+    "foreign_currency": "370 407",
+    "inter_reserves": "386 892",
+    "monetary_gold": "15 466",
+    "position_imf": "1 018",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "411 748",
+    "data": "01.01.2009",
+    "foreign_currency": "410 695",
+    "inter_reserves": "426 281",
+    "monetary_gold": "14 533",
+    "position_imf": "1 051",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "442 391",
+    "data": "01.12.2008",
+    "foreign_currency": "441 373",
+    "inter_reserves": "455 730",
+    "monetary_gold": "13 339",
+    "position_imf": "1 018",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "472 005",
+    "data": "01.11.2008",
+    "foreign_currency": "471 652",
+    "inter_reserves": "484 590",
+    "monetary_gold": "12 585",
+    "position_imf": "353",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "542 839",
+    "data": "01.10.2008",
+    "foreign_currency": "542 470",
+    "inter_reserves": "556 813",
+    "monetary_gold": "13 974",
+    "position_imf": "369",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "569 123",
+    "data": "01.09.2008",
+    "foreign_currency": "568 750",
+    "inter_reserves": "582 212",
+    "monetary_gold": "13 089",
+    "position_imf": "372",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "582 679",
+    "data": "01.08.2008",
+    "foreign_currency": "582 294",
+    "inter_reserves": "596 566",
+    "monetary_gold": "13 887",
+    "position_imf": "384",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "555 182",
+    "data": "01.07.2008",
+    "foreign_currency": "554 794",
+    "inter_reserves": "568 966",
+    "monetary_gold": "13 785",
+    "position_imf": "387",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "533 109",
+    "data": "01.06.2008",
+    "foreign_currency": "532 725",
+    "inter_reserves": "546 035",
+    "monetary_gold": "12 926",
+    "position_imf": "384",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "519 758",
+    "data": "01.05.2008",
+    "foreign_currency": "519 372",
+    "inter_reserves": "532 474",
+    "monetary_gold": "12 716",
+    "position_imf": "384",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "498 890",
+    "data": "01.04.2008",
+    "foreign_currency": "498 499",
+    "inter_reserves": "512 584",
+    "monetary_gold": "13 694",
+    "position_imf": "389",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "481 011",
+    "data": "01.03.2008",
+    "foreign_currency": "480 629",
+    "inter_reserves": "494 932",
+    "monetary_gold": "13 921",
+    "position_imf": "381",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "475 072",
+    "data": "01.02.2008",
+    "foreign_currency": "474 694",
+    "inter_reserves": "488 368",
+    "monetary_gold": "13 296",
+    "position_imf": "377",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "466 750",
+    "data": "01.01.2008",
+    "foreign_currency": "466 376",
+    "inter_reserves": "478 762",
+    "monetary_gold": "12 012",
+    "position_imf": "374",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "452 162",
+    "data": "01.12.2007",
+    "foreign_currency": "451 785",
+    "inter_reserves": "463 528",
+    "monetary_gold": "11 366",
+    "position_imf": "376",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "436 007",
+    "data": "01.11.2007",
+    "foreign_currency": "435 634",
+    "inter_reserves": "446 961",
+    "monetary_gold": "10 954",
+    "position_imf": "372",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "415 264",
+    "data": "01.10.2007",
+    "foreign_currency": "414 895",
+    "inter_reserves": "425 378",
+    "monetary_gold": "10 114",
+    "position_imf": "368",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "407 111",
+    "data": "01.09.2007",
+    "foreign_currency": "406 748",
+    "inter_reserves": "416 040",
+    "monetary_gold": "8 929",
+    "position_imf": "363",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "407 495",
+    "data": "01.08.2007",
+    "foreign_currency": "407 132",
+    "inter_reserves": "416 167",
+    "monetary_gold": "8 672",
+    "position_imf": "362",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "397 398",
+    "data": "01.07.2007",
+    "foreign_currency": "397 033",
+    "inter_reserves": "405 840",
+    "monetary_gold": "8 442",
+    "position_imf": "358",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "394 749",
+    "data": "01.06.2007",
+    "foreign_currency": "394 384",
+    "inter_reserves": "403 207",
+    "monetary_gold": "8 458",
+    "position_imf": "357",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "360 410",
+    "data": "01.05.2007",
+    "foreign_currency": "360 116",
+    "inter_reserves": "369 117",
+    "monetary_gold": "8 707",
+    "position_imf": "287",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "330 334",
+    "data": "01.04.2007",
+    "foreign_currency": "330 043",
+    "inter_reserves": "338 830",
+    "monetary_gold": "8 496",
+    "position_imf": "285",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "305 869",
+    "data": "01.03.2007",
+    "foreign_currency": "305 579",
+    "inter_reserves": "314 534",
+    "monetary_gold": "8 665",
+    "position_imf": "283",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "295 562",
+    "data": "01.02.2007",
+    "foreign_currency": "295 274",
+    "inter_reserves": "303 886",
+    "monetary_gold": "8 325",
+    "position_imf": "281",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "295 567",
+    "data": "01.01.2007",
+    "foreign_currency": "295 277",
+    "inter_reserves": "303 732",
+    "monetary_gold": "8 164",
+    "position_imf": "283",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "280 970",
+    "data": "01.12.2006",
+    "foreign_currency": "280 730",
+    "inter_reserves": "289 042",
+    "monetary_gold": "8 072",
+    "position_imf": "233",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "264 956",
+    "data": "01.11.2006",
+    "foreign_currency": "264 721",
+    "inter_reserves": "272 543",
+    "monetary_gold": "7 586",
+    "position_imf": "228",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "258 705",
+    "data": "01.10.2006",
+    "foreign_currency": "258 470",
+    "inter_reserves": "266 197",
+    "monetary_gold": "7 492",
+    "position_imf": "228",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "252 184",
+    "data": "01.09.2006",
+    "foreign_currency": "251 947",
+    "inter_reserves": "259 862",
+    "monetary_gold": "7 677",
+    "position_imf": "230",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "257 859",
+    "data": "01.08.2006",
+    "foreign_currency": "257 623",
+    "inter_reserves": "265 699",
+    "monetary_gold": "7 840",
+    "position_imf": "229",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "243 174",
+    "data": "01.07.2006",
+    "foreign_currency": "242 939",
+    "inter_reserves": "250 561",
+    "monetary_gold": "7 386",
+    "position_imf": "228",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "239 271",
+    "data": "01.06.2006",
+    "foreign_currency": "239 059",
+    "inter_reserves": "247 343",
+    "monetary_gold": "8 072",
+    "position_imf": "205",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "218 521",
+    "data": "01.05.2006",
+    "foreign_currency": "218 312",
+    "inter_reserves": "226 413",
+    "monetary_gold": "7 892",
+    "position_imf": "202",
+    "sdr_account": "7"
+},
+{
+    "currency_reserves": "198 676",
+    "data": "01.04.2006",
+    "foreign_currency": "198 472",
+    "inter_reserves": "205 881",
+    "monetary_gold": "7 205",
+    "position_imf": "198",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "189 050",
+    "data": "01.03.2006",
+    "foreign_currency": "188 847",
+    "inter_reserves": "195 931",
+    "monetary_gold": "6 881",
+    "position_imf": "197",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "181 401",
+    "data": "01.02.2006",
+    "foreign_currency": "181 197",
+    "inter_reserves": "188 451",
+    "monetary_gold": "7 050",
+    "position_imf": "198",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "175 892",
+    "data": "01.01.2006",
+    "foreign_currency": "175 690",
+    "inter_reserves": "182 240",
+    "monetary_gold": "6 349",
+    "position_imf": "196",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "164 666",
+    "data": "01.12.2005",
+    "foreign_currency": "164 539",
+    "inter_reserves": "168 396",
+    "monetary_gold": "3 730",
+    "position_imf": "121",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "161 242",
+    "data": "01.11.2005",
+    "foreign_currency": "161 113",
+    "inter_reserves": "164 971",
+    "monetary_gold": "3 730",
+    "position_imf": "123",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "155 831",
+    "data": "01.10.2005",
+    "foreign_currency": "155 777",
+    "inter_reserves": "159 560",
+    "monetary_gold": "3 730",
+    "position_imf": "48",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "146 026",
+    "data": "01.09.2005",
+    "foreign_currency": "145 972",
+    "inter_reserves": "149 754",
+    "monetary_gold": "3 729",
+    "position_imf": "48",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "140 896",
+    "data": "01.08.2005",
+    "foreign_currency": "140 842",
+    "inter_reserves": "144 624",
+    "monetary_gold": "3 729",
+    "position_imf": "48",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "147 777",
+    "data": "01.07.2005",
+    "foreign_currency": "147 768",
+    "inter_reserves": "151 578",
+    "monetary_gold": "3 802",
+    "position_imf": "3",
+    "sdr_account": "6"
+},
+{
+    "currency_reserves": "143 628",
+    "data": "01.06.2005",
+    "foreign_currency": "143 623",
+    "inter_reserves": "147 360",
+    "monetary_gold": "3 731",
+    "position_imf": "3",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "140 524",
+    "data": "01.05.2005",
+    "foreign_currency": "140 519",
+    "inter_reserves": "144 255",
+    "monetary_gold": "3 731",
+    "position_imf": "3",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "133 651",
+    "data": "01.04.2005",
+    "foreign_currency": "133 646",
+    "inter_reserves": "137 381",
+    "monetary_gold": "3 730",
+    "position_imf": "3",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "130 426",
+    "data": "01.03.2005",
+    "foreign_currency": "130 421",
+    "inter_reserves": "134 153",
+    "monetary_gold": "3 727",
+    "position_imf": "3",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "121 199",
+    "data": "01.02.2005",
+    "foreign_currency": "121 166",
+    "inter_reserves": "124 927",
+    "monetary_gold": "3 728",
+    "position_imf": "3",
+    "sdr_account": "30"
+},
+{
+    "currency_reserves": "120 809",
+    "data": "01.01.2005",
+    "foreign_currency": "120 805",
+    "inter_reserves": "124 541",
+    "monetary_gold": "3 732",
+    "position_imf": "3",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "113 703",
+    "data": "01.12.2004",
+    "foreign_currency": "113 699",
+    "inter_reserves": "117 434",
+    "monetary_gold": "3 731",
+    "position_imf": "3",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "103 607",
+    "data": "01.11.2004",
+    "foreign_currency": "103 603",
+    "inter_reserves": "107 338",
+    "monetary_gold": "3 730",
+    "position_imf": "3",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "91 329",
+    "data": "01.10.2004",
+    "foreign_currency": "91 326",
+    "inter_reserves": "95 082",
+    "monetary_gold": "3 754",
+    "position_imf": "3",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "84 948",
+    "data": "01.09.2004",
+    "foreign_currency": "84 945",
+    "inter_reserves": "88 702",
+    "monetary_gold": "3 754",
+    "position_imf": "3",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "84 857",
+    "data": "01.08.2004",
+    "foreign_currency": "84 825",
+    "inter_reserves": "88 610",
+    "monetary_gold": "3 753",
+    "position_imf": "2",
+    "sdr_account": "30"
+},
+{
+    "currency_reserves": "84 462",
+    "data": "01.07.2004",
+    "foreign_currency": "84 460",
+    "inter_reserves": "88 226",
+    "monetary_gold": "3 763",
+    "position_imf": "2",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "81 849",
+    "data": "01.06.2004",
+    "foreign_currency": "81 847",
+    "inter_reserves": "85 612",
+    "monetary_gold": "3 763",
+    "position_imf": "2",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "78 904",
+    "data": "01.05.2004",
+    "foreign_currency": "78 877",
+    "inter_reserves": "82 664",
+    "monetary_gold": "3 760",
+    "position_imf": "2",
+    "sdr_account": "25"
+},
+{
+    "currency_reserves": "79 639",
+    "data": "01.04.2004",
+    "foreign_currency": "79 636",
+    "inter_reserves": "83 398",
+    "monetary_gold": "3 760",
+    "position_imf": "2",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "82 558",
+    "data": "01.03.2004",
+    "foreign_currency": "82 555",
+    "inter_reserves": "86 318",
+    "monetary_gold": "3 760",
+    "position_imf": "2",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "80 226",
+    "data": "01.02.2004",
+    "foreign_currency": "80 224",
+    "inter_reserves": "83 990",
+    "monetary_gold": "3 763",
+    "position_imf": "2",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "73 175",
+    "data": "01.01.2004",
+    "foreign_currency": "73 172",
+    "inter_reserves": "76 938",
+    "monetary_gold": "3 763",
+    "position_imf": "2",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "64 415",
+    "data": "01.12.2003",
+    "foreign_currency": "64 412",
+    "inter_reserves": "68 169",
+    "monetary_gold": "3 754",
+    "position_imf": "2",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "61 183",
+    "data": "01.11.2003",
+    "foreign_currency": "61 152",
+    "inter_reserves": "64 928",
+    "monetary_gold": "3 744",
+    "position_imf": "2",
+    "sdr_account": "29"
+},
+{
+    "currency_reserves": "58 330",
+    "data": "01.10.2003",
+    "foreign_currency": "58 324",
+    "inter_reserves": "62 073",
+    "monetary_gold": "3 743",
+    "position_imf": "2",
+    "sdr_account": "4"
+},
+{
+    "currency_reserves": "59 011",
+    "data": "01.09.2003",
+    "foreign_currency": "59 005",
+    "inter_reserves": "62 752",
+    "monetary_gold": "3 741",
+    "position_imf": "2",
+    "sdr_account": "4"
+},
+{
+    "currency_reserves": "60 710",
+    "data": "01.08.2003",
+    "foreign_currency": "60 672",
+    "inter_reserves": "64 454",
+    "monetary_gold": "3 744",
+    "position_imf": "2",
+    "sdr_account": "36"
+},
+{
+    "currency_reserves": "60 691",
+    "data": "01.07.2003",
+    "foreign_currency": "60 681",
+    "inter_reserves": "64 430",
+    "monetary_gold": "3 739",
+    "position_imf": "2",
+    "sdr_account": "8"
+},
+{
+    "currency_reserves": "61 144",
+    "data": "01.06.2003",
+    "foreign_currency": "61 141",
+    "inter_reserves": "64 882",
+    "monetary_gold": "3 738",
+    "position_imf": "2",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "56 111",
+    "data": "01.05.2003",
+    "foreign_currency": "56 072",
+    "inter_reserves": "59 847",
+    "monetary_gold": "3 736",
+    "position_imf": "2",
+    "sdr_account": "37"
+},
+{
+    "currency_reserves": "51 790",
+    "data": "01.04.2003",
+    "foreign_currency": "51 788",
+    "inter_reserves": "55 525",
+    "monetary_gold": "3 735",
+    "position_imf": "2",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "49 326",
+    "data": "01.03.2003",
+    "foreign_currency": "49 324",
+    "inter_reserves": "53 061",
+    "monetary_gold": "3 735",
+    "position_imf": "2",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "45 534",
+    "data": "01.02.2003",
+    "foreign_currency": "45 531",
+    "inter_reserves": "49 274",
+    "monetary_gold": "3 740",
+    "position_imf": "2",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "44 054",
+    "data": "01.01.2003",
+    "foreign_currency": "44 051",
+    "inter_reserves": "47 793",
+    "monetary_gold": "3 739",
+    "position_imf": "2",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "44 470",
+    "data": "01.12.2002",
+    "foreign_currency": "44 467",
+    "inter_reserves": "48 205",
+    "monetary_gold": "3 735",
+    "position_imf": "2",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "43 034",
+    "data": "01.11.2002",
+    "foreign_currency": "43 025",
+    "inter_reserves": "46 767",
+    "monetary_gold": "3 733",
+    "position_imf": "2",
+    "sdr_account": "8"
+},
+{
+    "currency_reserves": "41 887",
+    "data": "01.10.2002",
+    "foreign_currency": "41 878",
+    "inter_reserves": "45 619",
+    "monetary_gold": "3 732",
+    "position_imf": "2",
+    "sdr_account": "8"
+},
+{
+    "currency_reserves": "40 596",
+    "data": "01.09.2002",
+    "foreign_currency": "40 587",
+    "inter_reserves": "44 327",
+    "monetary_gold": "3 731",
+    "position_imf": "2",
+    "sdr_account": "8"
+},
+{
+    "currency_reserves": "39 564",
+    "data": "01.08.2002",
+    "foreign_currency": "39 554",
+    "inter_reserves": "43 294",
+    "monetary_gold": "3 731",
+    "position_imf": "2",
+    "sdr_account": "8"
+},
+{
+    "currency_reserves": "39 848",
+    "data": "01.07.2002",
+    "foreign_currency": "39 838",
+    "inter_reserves": "43 579",
+    "monetary_gold": "3 731",
+    "position_imf": "2",
+    "sdr_account": "8"
+},
+{
+    "currency_reserves": "38 496",
+    "data": "01.06.2002",
+    "foreign_currency": "38 489",
+    "inter_reserves": "42 227",
+    "monetary_gold": "3 731",
+    "position_imf": "1",
+    "sdr_account": "5"
+},
+{
+    "currency_reserves": "35 024",
+    "data": "01.05.2002",
+    "foreign_currency": "35 019",
+    "inter_reserves": "39 155",
+    "monetary_gold": "4 131",
+    "position_imf": "1",
+    "sdr_account": "4"
+},
+{
+    "currency_reserves": "33 179",
+    "data": "01.04.2002",
+    "foreign_currency": "33 174",
+    "inter_reserves": "37 295",
+    "monetary_gold": "4 116",
+    "position_imf": "1",
+    "sdr_account": "4"
+},
+{
+    "currency_reserves": "32 768",
+    "data": "01.03.2002",
+    "foreign_currency": "32 763",
+    "inter_reserves": "36 860",
+    "monetary_gold": "4 092",
+    "position_imf": "1",
+    "sdr_account": "4"
+},
+{
+    "currency_reserves": "32 317",
+    "data": "01.02.2002",
+    "foreign_currency": "32 312",
+    "inter_reserves": "36 408",
+    "monetary_gold": "4 091",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "32 542",
+    "data": "01.01.2002",
+    "foreign_currency": "32 538",
+    "inter_reserves": "36 622",
+    "monetary_gold": "4 080",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "33 277",
+    "data": "01.12.2001",
+    "foreign_currency": "33 273",
+    "inter_reserves": "37 288",
+    "monetary_gold": "4 011",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "34 016",
+    "data": "01.11.2001",
+    "foreign_currency": "34 012",
+    "inter_reserves": "38 002",
+    "monetary_gold": "3 986",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "34 044",
+    "data": "01.10.2001",
+    "foreign_currency": "34 040",
+    "inter_reserves": "37 957",
+    "monetary_gold": "3 913",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "33 686",
+    "data": "01.09.2001",
+    "foreign_currency": "33 682",
+    "inter_reserves": "37 493",
+    "monetary_gold": "3 807",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "32 694",
+    "data": "01.08.2001",
+    "foreign_currency": "32 677",
+    "inter_reserves": "36 502",
+    "monetary_gold": "3 807",
+    "position_imf": "1",
+    "sdr_account": "17"
+},
+{
+    "currency_reserves": "31 251",
+    "data": "01.07.2001",
+    "foreign_currency": "31 234",
+    "inter_reserves": "35 053",
+    "monetary_gold": "3 801",
+    "position_imf": "1",
+    "sdr_account": "16"
+},
+{
+    "currency_reserves": "29 749",
+    "data": "01.06.2001",
+    "foreign_currency": "29 742",
+    "inter_reserves": "33 550",
+    "monetary_gold": "3 801",
+    "position_imf": "1",
+    "sdr_account": "5"
+},
+{
+    "currency_reserves": "27 868",
+    "data": "01.05.2001",
+    "foreign_currency": "27 864",
+    "inter_reserves": "31 650",
+    "monetary_gold": "3 782",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "25 942",
+    "data": "01.04.2001",
+    "foreign_currency": "25 938",
+    "inter_reserves": "29 709",
+    "monetary_gold": "3 767",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "24 591",
+    "data": "01.03.2001",
+    "foreign_currency": "24 586",
+    "inter_reserves": "28 345",
+    "monetary_gold": "3 754",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "25 888",
+    "data": "01.02.2001",
+    "foreign_currency": "25 887",
+    "inter_reserves": "29 638",
+    "monetary_gold": "3 749",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "24 264",
+    "data": "01.01.2001",
+    "foreign_currency": "24 263",
+    "inter_reserves": "27 972",
+    "monetary_gold": "3 708",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "24 035",
+    "data": "01.12.2000",
+    "foreign_currency": "24 033",
+    "inter_reserves": "27 667",
+    "monetary_gold": "3 632",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "22 290",
+    "data": "01.11.2000",
+    "foreign_currency": "22 288",
+    "inter_reserves": "25 880",
+    "monetary_gold": "3 590",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "21 474",
+    "data": "01.10.2000",
+    "foreign_currency": "21 472",
+    "inter_reserves": "25 007",
+    "monetary_gold": "3 533",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "20 289",
+    "data": "01.09.2000",
+    "foreign_currency": "20 287",
+    "inter_reserves": "23 731",
+    "monetary_gold": "3 442",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "19 955",
+    "data": "01.08.2000",
+    "foreign_currency": "19 954",
+    "inter_reserves": "23 302",
+    "monetary_gold": "3 347",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "17 685",
+    "data": "01.07.2000",
+    "foreign_currency": "17 682",
+    "inter_reserves": "20 996",
+    "monetary_gold": "3 312",
+    "position_imf": "1",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "15 878",
+    "data": "01.06.2000",
+    "foreign_currency": "15 876",
+    "inter_reserves": "19 570",
+    "monetary_gold": "3 692",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "13 410",
+    "data": "01.05.2000",
+    "foreign_currency": "13 408",
+    "inter_reserves": "17 091",
+    "monetary_gold": "3 682",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "11 456",
+    "data": "01.04.2000",
+    "foreign_currency": "11 455",
+    "inter_reserves": "15 532",
+    "monetary_gold": "4 076",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "9 606",
+    "data": "01.03.2000",
+    "foreign_currency": "9 605",
+    "inter_reserves": "13 657",
+    "monetary_gold": "4 051",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "8 912",
+    "data": "01.02.2000",
+    "foreign_currency": "8 911",
+    "inter_reserves": "12 948",
+    "monetary_gold": "4 035",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "8 457",
+    "data": "01.01.2000",
+    "foreign_currency": "8 455",
+    "inter_reserves": "12 456",
+    "monetary_gold": "3 998",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "7 599",
+    "data": "01.12.1999",
+    "foreign_currency": "7 597",
+    "inter_reserves": "11 504",
+    "monetary_gold": "3 906",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "7 081",
+    "data": "01.11.1999",
+    "foreign_currency": "7 080",
+    "inter_reserves": "11 752",
+    "monetary_gold": "4 671",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "6 634",
+    "data": "01.10.1999",
+    "foreign_currency": "6 632",
+    "inter_reserves": "11 212",
+    "monetary_gold": "4 579",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "6 824",
+    "data": "01.09.1999",
+    "foreign_currency": "6 663",
+    "inter_reserves": "11 231",
+    "monetary_gold": "4 407",
+    "position_imf": "1",
+    "sdr_account": "160"
+},
+{
+    "currency_reserves": "7 827",
+    "data": "01.08.1999",
+    "foreign_currency": "7 184",
+    "inter_reserves": "11 921",
+    "monetary_gold": "4 094",
+    "position_imf": "1",
+    "sdr_account": "642"
+},
+{
+    "currency_reserves": "8 189",
+    "data": "01.07.1999",
+    "foreign_currency": "8 187",
+    "inter_reserves": "12 152",
+    "monetary_gold": "3 964",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "8 034",
+    "data": "01.06.1999",
+    "foreign_currency": "8 032",
+    "inter_reserves": "11 937",
+    "monetary_gold": "3 903",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "7 074",
+    "data": "01.05.1999",
+    "foreign_currency": "7 011",
+    "inter_reserves": "11 168",
+    "monetary_gold": "4 094",
+    "position_imf": "1",
+    "sdr_account": "62"
+},
+{
+    "currency_reserves": "6 679",
+    "data": "01.04.1999",
+    "foreign_currency": "6 676",
+    "inter_reserves": "10 765",
+    "monetary_gold": "4 086",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "7 284",
+    "data": "01.03.1999",
+    "foreign_currency": "7 281",
+    "inter_reserves": "11 437",
+    "monetary_gold": "4 153",
+    "position_imf": "1",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "7 078",
+    "data": "01.02.1999",
+    "foreign_currency": "7 014",
+    "inter_reserves": "11 621",
+    "monetary_gold": "4 543",
+    "position_imf": "1",
+    "sdr_account": "63"
+},
+{
+    "currency_reserves": "7 801",
+    "data": "01.01.1999",
+    "foreign_currency": "7 800",
+    "inter_reserves": "12 223",
+    "monetary_gold": "4 422",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "8 175",
+    "data": "01.12.1998",
+    "foreign_currency": "8 172",
+    "inter_reserves": "12 480",
+    "monetary_gold": "4 306",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "9 656",
+    "data": "01.11.1998",
+    "foreign_currency": "9 590",
+    "inter_reserves": "13 572",
+    "monetary_gold": "3 916",
+    "position_imf": "1",
+    "sdr_account": "64"
+},
+{
+    "currency_reserves": "8 840",
+    "data": "01.10.1998",
+    "foreign_currency": "8 839",
+    "inter_reserves": "12 709",
+    "monetary_gold": "3 869",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "8 198",
+    "data": "01.09.1998",
+    "foreign_currency": "8 196",
+    "inter_reserves": "12 459",
+    "monetary_gold": "4 262",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "13 805",
+    "data": "01.08.1998",
+    "foreign_currency": "13 791",
+    "inter_reserves": "18 409",
+    "monetary_gold": "4 604",
+    "position_imf": "1",
+    "sdr_account": "13"
+},
+{
+    "currency_reserves": "11 161",
+    "data": "01.07.1998",
+    "foreign_currency": "10 906",
+    "inter_reserves": "16 169",
+    "monetary_gold": "5 008",
+    "position_imf": "1",
+    "sdr_account": "253"
+},
+{
+    "currency_reserves": "9 625",
+    "data": "01.06.1998",
+    "foreign_currency": "9 621",
+    "inter_reserves": "14 627",
+    "monetary_gold": "5 002",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "10 957",
+    "data": "01.05.1998",
+    "foreign_currency": "10 952",
+    "inter_reserves": "15 953",
+    "monetary_gold": "4 996",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "11 910",
+    "data": "01.04.1998",
+    "foreign_currency": "11 906",
+    "inter_reserves": "16 859",
+    "monetary_gold": "4 948",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "10 212",
+    "data": "01.03.1998",
+    "foreign_currency": "10 208",
+    "inter_reserves": "15 034",
+    "monetary_gold": "4 822",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "10 480",
+    "data": "01.02.1998",
+    "foreign_currency": "10 477",
+    "inter_reserves": "15 375",
+    "monetary_gold": "4 895",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "12 895",
+    "data": "01.01.1998",
+    "foreign_currency": "12 771",
+    "inter_reserves": "17 784",
+    "monetary_gold": "4 889",
+    "position_imf": "1",
+    "sdr_account": "122"
+},
+{
+    "currency_reserves": "12 201",
+    "data": "01.12.1997",
+    "foreign_currency": "12 199",
+    "inter_reserves": "16 810",
+    "monetary_gold": "4 608",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "18 448",
+    "data": "01.11.1997",
+    "foreign_currency": "18 443",
+    "inter_reserves": "22 916",
+    "monetary_gold": "4 468",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "18 737",
+    "data": "01.10.1997",
+    "foreign_currency": "18 733",
+    "inter_reserves": "23 105",
+    "monetary_gold": "4 368",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "19 604",
+    "data": "01.09.1997",
+    "foreign_currency": "19 603",
+    "inter_reserves": "23 920",
+    "monetary_gold": "4 316",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "20 186",
+    "data": "01.08.1997",
+    "foreign_currency": "20 180",
+    "inter_reserves": "24 456",
+    "monetary_gold": "4 270",
+    "position_imf": "1",
+    "sdr_account": "5"
+},
+{
+    "currency_reserves": "20 396",
+    "data": "01.07.1997",
+    "foreign_currency": "20 389",
+    "inter_reserves": "24 549",
+    "monetary_gold": "4 153",
+    "position_imf": "1",
+    "sdr_account": "5"
+},
+{
+    "currency_reserves": "15 884",
+    "data": "01.06.1997",
+    "foreign_currency": "15 798",
+    "inter_reserves": "20 016",
+    "monetary_gold": "4 132",
+    "position_imf": "1",
+    "sdr_account": "85"
+},
+{
+    "currency_reserves": "14 068",
+    "data": "01.05.1997",
+    "foreign_currency": "14 066",
+    "inter_reserves": "18 184",
+    "monetary_gold": "4 117",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "12 429",
+    "data": "01.04.1997",
+    "foreign_currency": "12 427",
+    "inter_reserves": "16 495",
+    "monetary_gold": "4 066",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "11 127",
+    "data": "01.03.1997",
+    "foreign_currency": "11 117",
+    "inter_reserves": "15 208",
+    "monetary_gold": "4 081",
+    "position_imf": "1",
+    "sdr_account": "9"
+},
+{
+    "currency_reserves": "9 930",
+    "data": "01.02.1997",
+    "foreign_currency": "9 924",
+    "inter_reserves": "13 993",
+    "monetary_gold": "4 064",
+    "position_imf": "1",
+    "sdr_account": "4"
+},
+{
+    "currency_reserves": "11 276",
+    "data": "01.01.1997",
+    "foreign_currency": "11 271",
+    "inter_reserves": "15 324",
+    "monetary_gold": "4 047",
+    "position_imf": "1",
+    "sdr_account": "5"
+},
+{
+    "currency_reserves": "11 653",
+    "data": "01.12.1996",
+    "foreign_currency": "11 642",
+    "inter_reserves": "15 520",
+    "monetary_gold": "3 867",
+    "position_imf": "1",
+    "sdr_account": "9"
+},
+{
+    "currency_reserves": "10 515",
+    "data": "01.11.1996",
+    "foreign_currency": "10 329",
+    "inter_reserves": "14 288",
+    "monetary_gold": "3 773",
+    "position_imf": "1",
+    "sdr_account": "185"
+},
+{
+    "currency_reserves": "11 399",
+    "data": "01.10.1996",
+    "foreign_currency": "11 392",
+    "inter_reserves": "15 075",
+    "monetary_gold": "3 677",
+    "position_imf": "1",
+    "sdr_account": "5"
+},
+{
+    "currency_reserves": "12 089",
+    "data": "01.09.1996",
+    "foreign_currency": "11 994",
+    "inter_reserves": "15 507",
+    "monetary_gold": "3 418",
+    "position_imf": "1",
+    "sdr_account": "93"
+},
+{
+    "currency_reserves": "12 497",
+    "data": "01.08.1996",
+    "foreign_currency": "12 355",
+    "inter_reserves": "15 671",
+    "monetary_gold": "3 174",
+    "position_imf": "1",
+    "sdr_account": "141"
+},
+{
+    "currency_reserves": "12 792",
+    "data": "01.07.1996",
+    "foreign_currency": "12 652",
+    "inter_reserves": "15 877",
+    "monetary_gold": "3 085",
+    "position_imf": "1",
+    "sdr_account": "139"
+},
+{
+    "currency_reserves": "12 004",
+    "data": "01.06.1996",
+    "foreign_currency": "11 957",
+    "inter_reserves": "15 073",
+    "monetary_gold": "3 069",
+    "position_imf": "1",
+    "sdr_account": "46"
+},
+{
+    "currency_reserves": "14 269",
+    "data": "01.05.1996",
+    "foreign_currency": "14 064",
+    "inter_reserves": "17 220",
+    "monetary_gold": "2 951",
+    "position_imf": "1",
+    "sdr_account": "204"
+},
+{
+    "currency_reserves": "16 331",
+    "data": "01.04.1996",
+    "foreign_currency": "16 074",
+    "inter_reserves": "19 248",
+    "monetary_gold": "2 917",
+    "position_imf": "1",
+    "sdr_account": "256"
+},
+{
+    "currency_reserves": "12 689",
+    "data": "01.03.1996",
+    "foreign_currency": "12 277",
+    "inter_reserves": "15 592",
+    "monetary_gold": "2 903",
+    "position_imf": "1",
+    "sdr_account": "410"
+},
+{
+    "currency_reserves": "11 898",
+    "data": "01.02.1996",
+    "foreign_currency": "11 782",
+    "inter_reserves": "14 741",
+    "monetary_gold": "2 843",
+    "position_imf": "1",
+    "sdr_account": "114"
+},
+{
+    "currency_reserves": "14 383",
+    "data": "01.01.1996",
+    "foreign_currency": "14 265",
+    "inter_reserves": "17 207",
+    "monetary_gold": "2 824",
+    "position_imf": "1",
+    "sdr_account": "117"
+},
+{
+    "currency_reserves": "12 342",
+    "data": "01.12.1995",
+    "foreign_currency": "12 340",
+    "inter_reserves": "15 017",
+    "monetary_gold": "2 676",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "12 703",
+    "data": "01.11.1995",
+    "foreign_currency": "12 613",
+    "inter_reserves": "15 259",
+    "monetary_gold": "2 556",
+    "position_imf": "1",
+    "sdr_account": "89"
+},
+{
+    "currency_reserves": "11 154",
+    "data": "01.10.1995",
+    "foreign_currency": "11 022",
+    "inter_reserves": "13 622",
+    "monetary_gold": "2 467",
+    "position_imf": "1",
+    "sdr_account": "132"
+},
+{
+    "currency_reserves": "10 916",
+    "data": "01.09.1995",
+    "foreign_currency": "10 903",
+    "inter_reserves": "13 333",
+    "monetary_gold": "2 417",
+    "position_imf": "1",
+    "sdr_account": "12"
+},
+{
+    "currency_reserves": "10 321",
+    "data": "01.08.1995",
+    "foreign_currency": "10 233",
+    "inter_reserves": "12 671",
+    "monetary_gold": "2 351",
+    "position_imf": "1",
+    "sdr_account": "87"
+},
+{
+    "currency_reserves": "10 085",
+    "data": "01.07.1995",
+    "foreign_currency": "9 857",
+    "inter_reserves": "12 413",
+    "monetary_gold": "2 327",
+    "position_imf": "1",
+    "sdr_account": "227"
+},
+{
+    "currency_reserves": "8 638",
+    "data": "01.06.1995",
+    "foreign_currency": "8 374",
+    "inter_reserves": "11 050",
+    "monetary_gold": "2 412",
+    "position_imf": "1",
+    "sdr_account": "263"
+},
+{
+    "currency_reserves": "5 823",
+    "data": "01.05.1995",
+    "foreign_currency": "5 508",
+    "inter_reserves": "8 222",
+    "monetary_gold": "2 399",
+    "position_imf": "1",
+    "sdr_account": "314"
+},
+{
+    "currency_reserves": "4 148",
+    "data": "01.04.1995",
+    "foreign_currency": "4 145",
+    "inter_reserves": "6 552",
+    "monetary_gold": "2 404",
+    "position_imf": "1",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "3 110",
+    "data": "01.03.1995",
+    "foreign_currency": "3 107",
+    "inter_reserves": "5 546",
+    "monetary_gold": "2 436",
+    "position_imf": "1",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "2 093",
+    "data": "01.02.1995",
+    "foreign_currency": "2 028",
+    "inter_reserves": "4 627",
+    "monetary_gold": "2 534",
+    "position_imf": "1",
+    "sdr_account": "63"
+},
+{
+    "currency_reserves": "3 980",
+    "data": "01.01.1995",
+    "foreign_currency": "3 976",
+    "inter_reserves": "6 506",
+    "monetary_gold": "2 525",
+    "position_imf": "1",
+    "sdr_account": "3"
+},
+{
+    "currency_reserves": "4 161",
+    "data": "01.10.1994",
+    "foreign_currency": "3 834",
+    "inter_reserves": "6 745",
+    "monetary_gold": "2 584",
+    "position_imf": "1",
+    "sdr_account": "326"
+},
+{
+    "currency_reserves": "8 048",
+    "data": "01.07.1994",
+    "foreign_currency": "7 159",
+    "inter_reserves": "10 511",
+    "monetary_gold": "2 463",
+    "position_imf": "2",
+    "sdr_account": "888"
+},
+{
+    "currency_reserves": "4 602",
+    "data": "01.04.1994",
+    "foreign_currency": "4 599",
+    "inter_reserves": "7 642",
+    "monetary_gold": "3 040",
+    "position_imf": "1",
+    "sdr_account": "2"
+},
+{
+    "currency_reserves": "5 835",
+    "data": "01.01.1994",
+    "foreign_currency": "5 829",
+    "inter_reserves": "8 894",
+    "monetary_gold": "3 059",
+    "position_imf": "1",
+    "sdr_account": "5"
+},
+{
+    "currency_reserves": "6 157",
+    "data": "01.10.1993",
+    "foreign_currency": "6 117",
+    "inter_reserves": "9 112",
+    "monetary_gold": "2 955",
+    "position_imf": "1",
+    "sdr_account": "38"
+},
+{
+    "currency_reserves": "4 396",
+    "data": "01.07.1993",
+    "foreign_currency": "4 394",
+    "inter_reserves": "7 141",
+    "monetary_gold": "2 745",
+    "position_imf": "1",
+    "sdr_account": "1"
+},
+{
+    "currency_reserves": "2 798",
+    "data": "01.04.1993",
+    "foreign_currency": "2 796",
+    "inter_reserves": "5 378",
+    "monetary_gold": "2 580",
+    "position_imf": "1",
+    "sdr_account": "0"
+},
+{
+    "currency_reserves": "1 954",
+    "data": "01.01.1993",
+    "foreign_currency": "1 953",
+    "inter_reserves": "4 532",
+    "monetary_gold": "2 578",
+    "position_imf": "1",
+    "sdr_account": "1"
+}
+]
